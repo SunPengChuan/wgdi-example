@@ -1,0 +1,7 @@
+2	1	1238	RoyalBlue	1
+6	100	1384	#FFCC00	1
+8	1	1421	#FFCC00	2
+13	1	1685	#FFCC00	3
+15	1	1141	RoyalBlue	2
+16	1	1344	RoyalBlue	3
+6	1	100	red	1
