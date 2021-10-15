@@ -1,0 +1,15 @@
+version=1060
+alphabet=ACDEFGHIKLMNPQRSTVWY
+numofsequences=21866
+numofletters=10912204
+maxsequenceletters=34270
+letterfreqs=766145 251594 516045 770098 401724 719450 287239 477099 632154 1088569 235597 393241 684607 516289 619244 900012 575809 650991 135265 291032
+maxunsortedinterval=0
+keeplowercase=1
+masklowercase=0
+numofindexes=1
+integersize=32
+totallength=10935306
+specialcharacters=23102
+prefixlength=4
+subsetseed=A C D E F G H I K L M N P Q R S T V W Y

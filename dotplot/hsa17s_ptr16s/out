@@ -1,0 +1,5 @@
+cds_file  =  hsa17s_ptr16s.cds
+pep_file  =  pep
+align_software  =  muscle
+pairs_file  =  hsa17s_ptr16s.collinearity
+ks_file  =  hsa17s_ptr16s.collinearity.ks
