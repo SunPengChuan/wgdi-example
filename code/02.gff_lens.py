@@ -42,11 +42,11 @@ for name, group in data.groupby([0]):
     group = group.sort_values(by=[2])
     data.loc[group.index, 'order'] = list(range(1, len(group)+1))
     data.loc[group.index, 'newname'] = list(
-        ['aco48s'+str(name)+'g'+str(i).zfill(5) for i in range(1, len(group)+1)])
+        [str(sys.argv[2])+str(name)+'g'+str(i).zfill(5) for i in range(1, len(group)+1)])
 data['order'] = data['order'].astype('int')
 data = data[[0, 'newname', 2, 3, 4, 'order', 1]]
 print(data.head())
 data = data.sort_values(by=[0, 'order'])
-data.to_csv(sys.argv[2], sep="\t", index=False, header=None)
+data.to_csv(sys.argv[3], sep="\t", index=False, header=None)
 lens = data.groupby(0).max()[[3, 'order']]
-lens.to_csv(sys.argv[3], sep="\t", header=None)
+lens.to_csv(sys.argv[4], sep="\t", header=None)
