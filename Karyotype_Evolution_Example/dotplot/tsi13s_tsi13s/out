@@ -1,0 +1,5 @@
+cds_file  =  ../tsi13s.cds.fa
+pep_file  =  ../tsi13s.pep.fa
+align_software  =  muscle
+pairs_file  =  tsi13s_tsi13s.collinearity
+ks_file  =  tsi13s_tsi13s.collinearity.ks

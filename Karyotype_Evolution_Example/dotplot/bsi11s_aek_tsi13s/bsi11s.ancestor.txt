@@ -1,0 +1,14 @@
+4	1	1618	deepskyblue	1
+13	1	1400	deepskyblue	2
+2	1	2470	#339966	1
+5	1	1995	#339966	2
+10	1	1713	fuchsia	1
+14	1	1510	fuchsia	2
+1	1	2486	#FFCC00	1
+3	1	2169	#FFCC00	2
+6	1	1792	red	1
+11	1	1582	red	2
+7	1	1825	#99CC00	1
+9	1	1693	#99CC00	2
+8	1	1597	RoyalBlue	1
+12	1	1285	RoyalBlue	2
