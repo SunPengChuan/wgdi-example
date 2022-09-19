@@ -86,7 +86,7 @@ This AEK result does not represent the ancestral karyotype for all eudicots and 
 
 <img src="./figures/vvi161s_aek_tsi13s.dotplot.ancestor.png" style="zoom: 20%;" />
 
-Polyploidy analysis showed that *V. vinifera* has two WGD (whole Genome Duplication) events, which means that *v. vinifera* has three copies of AEK. For each protochromosome of AEK, intact homologous chromosomes can be found in *v. vinifera*, and no chromosome is the proper subset of protochromosomes. So, this AEK with 7 protochromosomes can represent the ancestral karyotype for all eudicots.
+Polyploidy analysis showed that *V. vinifera* has  WGT (whole Genome  Triplication) events, which means that *v. vinifera* has three copies of AEK. For each protochromosome of AEK, intact homologous chromosomes can be found in *v. vinifera*, and no chromosome is the proper subset of protochromosomes. So, this AEK with 7 protochromosomes can represent the ancestral karyotype for all eudicots.
 
 > The comparison is available in /Karyotype_Evolution_Example/dotplot/vvi161s_aek_tsi13s.
 
