@@ -1,0 +1,1000 @@
+  998  ls
+  999  cd ..
+ 1000  cd /mnt/d/git/
+ 1001  cd wgdi
+ 1002  ls
+ 1003  cat  command.txt 
+ 1004  python setup.py sdist bdist_wheel
+ 1005  pip install dist/wgdi-0.6.0-py3-none-any.whl 
+ 1006  wgdi -v
+ 1007  which wgdi
+ 1008  pip uninstall wgdi
+ 1009  which wgdi
+ 1010  wgdi -h
+ 1011  cd .
+ 1012  cd ..
+ 1013  cd wgdi-example/
+ 1014  ls
+ 1015  cd dotplot/
+ 1016  ls
+ 1017  cd hsa17s_ptr16s/
+ 1018  ls
+ 1019  cd wgdi/
+ 1020  ls
+ 1021  wgdi -icl grading50,50,50.conf 
+ 1022  wgdi -ks grading50,50,50.conf 
+ 1023  ll
+ 1024  ls
+ 1025  ll
+ 1026  ls
+ 1027  mamba remove wgdi
+ 1028  wgdi -conf /home/sunpc/miniconda3/pkgs/wgdi-0.5.9-pyhdfd78af_0/site-packages/wgdi/example/conf.ini 
+ 1029  cat /home/sunpc/miniconda3/pkgs/wgdi-0.5.9-pyhdfd78af_0/site-packages/wgdi/example/conf.ini
+ 1030  ls
+ 1031  wgdi -icl grading50,50,50.conf 
+ 1032  ls
+ 1033  cat grading50,50,50.conf 
+ 1034  wgdi -ks grading50,50,50.conf 
+ 1035  which pal2nal.pl
+ 1036  pip uninstall wgdi
+ 1037  mamba remove wgdi
+ 1038  mamba install wgdi
+ 1039  ls
+ 1040  wgdi -ks grading50,50,50.conf 
+ 1041  wgdi -bi grading50,50,50.conf 
+ 1042  wgdi -a grading50,50,50.conf 
+ 1043  wgdi -a total.conf 
+ 1044  ls
+ 1045  wgdi -icl grading50,25,10.conf 
+ 1046  wgdi -ks grading50,25,10.conf 
+ 1047  wgdi -bi grading50,25,10.conf 
+ 1048  wgdi -a grading50,25,10.conf 
+ 1049  cd ..
+ 1050  cd wgdi/
+ 1051  ls
+ 1052  wgdi -icl total.conf 
+ 1053  wgdi -bi total.conf 
+ 1054  wgdi -c total.conf 
+ 1055  cd ..
+ 1056  cd venn/
+ 1057  ls
+ 1058  less hsa17s_ptr16s.wgdi_grading.new.csv 
+ 1059  less hsa17s_ptr16s.12-13.grading=50,50,50.alignment.csv
+ 1060  less hsa17s_ptr16s.12-13.alignment.csv
+ 1061  less hsa17s_ptr16s.wgdi_grading.csv
+ 1062  less hsa17s_ptr16s.12-13.grading=50,25,10.alignment.csv
+ 1063  dos2unix hsa17s_ptr16s.12-13.grading=50,25,10.alignment.csv hsa17s_ptr16s.12-13.grading=50,25,10.alignment.csv
+ 1064  dos2unix hsa17s_ptr16s.12-13.grading=50,50,50.alignment.csv hsa17s_ptr16s.12-13.grading=50,50,50.alignment.csv
+ 1065  ll
+ 1066  dos2unix 'hsa17s_ptr16s.12-13.grading=50,50,50.alignment.csv' hsa17s_ptr16s.12-13.grading=50,50,50.alignment.csv
+ 1067  ll
+ 1068  dos2unix 'hsa17s_ptr16s.12-13.grading=50,25,10.alignment.csv' hsa17s_ptr16s.12-13.grading=50,25,10.alignment.csv
+ 1069  ls
+ 1070  ll
+ 1071  cd ..
+ 1072  ls
+ 1073  cd wgdi/
+ 1074  ls
+ 1075  wgdi -icl repeat_number\=5.conf 
+ 1076  wgdi -ks repeat_number\=5.conf 
+ 1077  wgdi -c repeat_number\=5.conf 
+ 1078  ll
+ 1079  wgdi -bi repeat_number\=5.conf 
+ 1080  wgdi -d repeat_number\=20.conf 
+ 1081  wgdi -icl repeat_number\=20.conf 
+ 1082  wgdi -ks repeat_number\=20.conf 
+ 1083  wgdi -bi repeat_number\=20.conf 
+ 1084  wgdi -icl repeat_number\=20.conf 
+ 1085  wgdi -icl repeat_number\=5.conf 
+ 1086  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/dotplot/cja12s_
+ 1087  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/dotplot/cja12s_acek_cja_vvi/
+ 1088  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/dotplot/cja12s_acek_cja_vvi/
+ 1089  \=5.conf 
+ 1090  wgdi -icl total.conf 
+ 1091  wgdi -ks total.conf 
+ 1092  wgdi -bi total.conf 
+ 1093  wgdi -c total.conf 
+ 1094  wgdi -km total.conf 
+ 1095  wgdi -a total.conf 
+ 1096  wgdi -h
+ 1097  MCScanX -h
+ 1098  wgdi -c
+ 1099  wgdi -c ?
+ 1100  wgdi -h
+ 1101  wgdi -v
+ 1102  mamba remove wgdi
+ 1103  mamba install wgdi
+ 1104  cd /mnt/d/work/会议
+ 1105  cd /mnt/d/会议/
+ 1106  dir
+ 1107  cd collinearity/
+ 1108  cd wgdinew/
+ 1109  ls
+ 1110  wgdi -icl total.conf 
+ 1111  wgdi -ks total.conf 
+ 1112  wgdi -bi total.conf 
+ 1113  wgdi -icl total.conf 
+ 1114  wgdi -bi total.conf 
+ 1115  wgdi -ks total.conf 
+ 1116  wgdi -bi total.conf 
+ 1117  wgdi -c total.conf 
+ 1118  cd ..
+ 1119  cd mcscanx/
+ 1120  ls
+ 1121  MCScanX cja12s_vvi161s
+ 1122  wgdi -ks to
+ 1123  wgdi -ks mcscanx.conf 
+ 1124  wgdi -bi mcscanx.conf 
+ 1125  wgdi -c mcscanx.conf 
+ 1126  cd /mnt/d/work/soapberryGenome/无患子科已测序基因组/Aya/
+ 1127  ls
+ 1128  gffread A_yangbiense.final.gff3 -g A_yangbiense.fasta -x out
+ 1129  python fasta_cds.py A_yangbiense.final.gff3 A_yangbiense.fasta A_yangbiense.cds
+ 1130  python ../01.getgff.py A_yangbiense.final.gff3 old.gff 
+ 1131  head old.gff 
+ 1132  python ../02.gff_lens.py old.gff aya.gff aya.lens
+ 1133  python ../02.gff_lens.py old.gff aya aya.gff aya.lens
+ 1134  python ../03.seq_newname.py aya.gff A_yangbiense.cds aya.cds
+ 1135  python ../fanyi.py aya.cds aya.pep
+ 1136  cd ..
+ 1137  cd Cha/
+ 1138  ls
+ 1139  gffread Chalicacabum.evm-4.renew-4.gff3 -g Chalicacabum.Chr.fa -x Chalicacabum.Chr.cds
+ 1140  python ../01.getgff.py Chalicacabum.evm-4.renew-4.gff3 old.gff
+ 1141  python ../02.gff_lens.py old.gff cha cha.gff cha.lens
+ 1142  python ../03.seq_newname.py cha.gff Chalicacabum.Chr.cds cha.cds.fa
+ 1143  python ../fanyi.py cha.cds.fa cha.pep.fa
+ 1144  cd ..
+ 1145  ls
+ 1146  cd Dlo/
+ 1147  ls
+ 1148  gffread Longan.v20190918.gff3 -g Longan_Chr.v20190918.fasta -x Longan_Chr.v20190918.cds
+ 1149  python ../01.getgff.py Longan.v20190918.gff3 old.gff
+ 1150  head old.gff 
+ 1151  python ../02.gff_lens.py old.gff dlo dlo.gff dlo.lens
+ 1152  python ../03.seq_newname.py dlo.gff Longan_Chr.v20190918.cds dlo.cds
+ 1153  python ../fanyi.py dlo.cds dlo.pep
+ 1154  cd //
+ 1155  cd /mnt/d/work/soapberryGenome/无患子科已测序基因组/
+ 1156  ls
+ 1157  cd Lch/
+ 1158  ls
+ 1159  gffread Lchinesis_genome.Chr.gff3 -g Lchinesis_genome.Chr.fasta -x Lchinesis_genome.Chr.cds
+ 1160  python ../01.getgff.py Lchinesis_genome.Chr.gff3 old.gff
+ 1161  head old.gff 
+ 1162  python ../02.gff_lens.py old.gff lch.gff lch.lens
+ 1163  python ../02.gff_lens.py old.gff lch lch.gff lch.lens
+ 1164  python ../03.seq_newname.py lch.gff Lchinesis_genome.Chr.cds lch.cds.fasta
+ 1165  python ../fanyi.py lch.cds.fasta lch.pep.fasta
+ 1166  ls
+ 1167  cd ..
+ 1168  ls
+ 1169  cd Nla/
+ 1170  ls
+ 1171  gffread GWHBECQ00000000.gff -g GWHBECQ00000000.genome.fasta -x GWHBECQ00000000.cds
+ 1172  ll
+ 1173  python ../01.getgff.py GWHBECQ00000000.gff old.gff
+ 1174  head GWHBECQ00000000.gff
+ 1175  python ../01.getgff.py GWHBECQ00000000.gff old.gff
+ 1176  ls
+ 1177  python ../02.gff_lens.py old.gff nla nla.gff nla.lens
+ 1178  python ../01.getgff.py GWHBECQ00000000.gff old.gff
+ 1179  head old.gff 
+ 1180  python ../02.gff_lens.py old.gff nla nla.gff nla.lens
+ 1181  python ../03.seq_newname.py nla.gff GWHBECQ00000000.cds nla.cds.fasta
+ 1182  python ../fanyi.py nla.cds.fasta nla.pep.fa
+ 1183  ls
+ 1184  ll
+ 1185  cd ..
+ 1186  ls
+ 1187  cd Smu/
+ 1188  ls
+ 1189  head S_mukorossi_final.gene.gff3 
+ 1190  gffread S_mukorossi_final.gene.gff3 -g S_mukorossi_genome.fasta -x S_mukorossi_genome.cds
+ 1191  python ../01.getgff.py S_mukorossi_final.gene.gff3 old.gff
+ 1192  python ../02.gff_lens.py old.gff smu smu.gff smu.lens
+ 1193  python ../03.seq_newname.py smu.gff S_mukorossi_genome.cds smu.cds.fasta
+ 1194  python ../fanyi.py smu.cds.fasta smu.pep.fa
+ 1195  cd ..
+ 1196  ll
+ 1197  cd Xso/
+ 1198  LS
+ 1199  ls
+ 1200  gffread X.sorbifolium_chromosome.gff3 -g X.sorbifolium_assembly_genome.fasta -x X.sorbifolium_chromosome.cds
+ 1201  head X.sorbifolium_chromosome.gff3 
+ 1202  python ../01.getgff.py X.sorbifolium_chromosome.gff3 old.gff
+ 1203  head old.gff 
+ 1204  python ../01.getgff.py X.sorbifolium_chromosome.gff3 old.gff
+ 1205  head old.gff 
+ 1206  python ../02.gff_lens.py old.gff xso xso.gff xso.lens
+ 1207  python ../03.seq_newname.py xso.gff X.sorbifolium_chromosome.cds xso.cds.fasta
+ 1208  python ../fanyi.py xso.cds.fasta xso.pep.fa
+ 1209  CD ..
+ 1210  LS
+ 1211  ls
+ 1212  cd ..
+ 1213  ls
+ 1214  cd ..
+ 1215  ls
+ 1216  mkdir blast
+ 1217  mkdir dotplot
+ 1218  cd blast/
+ 1219  cp ../无患子科已测序基因组/*/*.pep.fa
+ 1220  cp ../无患子科已测序基因组/*/*.pep.fa .
+ 1221  ll
+ 1222  cp ../无患子科已测序基因组/*/*.pep
+ 1223  ll
+ 1224  cp ../无患子科已测序基因组/*/*.pep .
+ 1225  cp ../无患子科已测序基因组/*/*.pep.fa .
+ 1226  ll
+ 1227  mv dlo.pep dlo.pep.fasta
+ 1228  ls
+ 1229  ll
+ 1230  cp ../无患子科已测序基因组/*/*.pep.fasta .
+ 1231  ls
+ 1232  ll
+ 1233  mv aya.pep.fasta aya.pep.fa
+ 1234  mv dlo.pep.fasta dlo.pep.fa
+ 1235  mv lch.pep.fasta lch.pep.fa
+ 1236  ll
+ 1237  cp /mnt/d/work/qingmu/blast/rundiamond.py .
+ 1238  ls
+ 1239  python runblast.py 
+ 1240  cp /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/ancestor/ACEK/acek_cja_vvi.pep.fa .
+ 1241  mv acek_cja_vvi.pep.fa acek.pep.fa
+ 1242  ls
+ 1243  ll
+ 1244  python runblast.py 
+ 1245  ll
+ 1246  cat command.txt 
+ 1247  bash command.txt 
+ 1248  ll
+ 1249  top
+ 1250  ls
+ 1251  ll
+ 1252  q
+ 1253  cat command.txt 
+ 1254  python rundiamond.py cha.fa dlo.fa dlo cha_dlo.blast
+ 1255  cat rundiamond.py 
+ 1256  ls
+ 1257  python runblast.py 
+ 1258  bash command.txt 
+ 1259  ll
+ 1260  cd ..
+ 1261  ls
+ 1262  mkdir dotplot
+ 1263  ls
+ 1264  cd dotplot/
+ 1265  ls
+ 1266  cp ../无患子科已测序基因组/*/*.lens .
+ 1267  cp ../无患子科已测序基因组/*/*.cds.fa .
+ 1268  cp ../无患子科已测序基因组/*/*.cds.fasta .
+ 1269  ls
+ 1270  cp ../无患子科已测序基因组/*/S1.gff .
+ 1271  cp ../无患子科已测序基因组/*/$1.gff .
+ 1272  cp ../无患子科已测序基因组/aya/aya.cds .
+ 1273  ls
+ 1274  mv aya.cds aya.cds.fa
+ 1275  ls
+ 1276  ll
+ 1277  cd aya_xso/
+ 1278  wgdi -d total.conf 
+ 1279  cp /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/ancestor/ACEK/acek_cja_vvi.ancestor.txt acek.ancestor.txt
+ 1280  cp /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/ancestor/ACEK/acek_cja_vvi.gff acek.gff
+ 1281  cp /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/ancestor/ACEK/acek_cja_vvi.lens acek.lens
+ 1282  cd ..
+ 1283  cd xso_acek/
+ 1284  wgdi -d total.conf 
+ 1285  cp ../acek.lens .
+ 1286  wgdi -d total.conf 
+ 1287  cd ..
+ 1288  ls
+ 1289  python dotplot.py cha xso
+ 1290  ls
+ 1291  ll
+ 1292  python dotplot.py cha xso
+ 1293  cp ../blast/*.fa .
+ 1294  ls
+ 1295  python dotplot.py cha xso
+ 1296  python dotplot.py aya acek
+ 1297  python dotplot.py cha acek
+ 1298  cd cha_acek/
+ 1299  ls
+ 1300  wgdi -d total.conf 
+ 1301  wgdi -icl total.conf >out &
+ 1302  cd ..
+ 1303  cd xso_acek/
+ 1304  ls
+ 1305  wgdi -icl total.conf >out &
+ 1306  jobs
+ 1307  cd ..
+ 1308  ls
+ 1309  python dotplot.py aya xso
+ 1310  cd aya_xso/
+ 1311  ls
+ 1312  wgdi -d total.conf 
+ 1313  jobs
+ 1314  top
+ 1315  ls
+ 1316  ll
+ 1317  wgdi -icl total.conf >out &
+ 1318  cd ..
+ 1319  ls
+ 1320  ll
+ 1321  python dotplot.py dlo acek
+ 1322  python dotplot.py lch acek
+ 1323  python dotplot.py nla acek
+ 1324  python dotplot.py smu acek
+ 1325  ls
+ 1326  ll
+ 1327  cd dlo_acek/
+ 1328  wgdi -d total.conf >out&
+ 1329  jobs
+ 1330  wgdi -d total.conf 
+ 1331  head ../../blast/dlo_acek.blast
+ 1332  cd ..
+ 1333  cd 无患子科已测序基因组/
+ 1334  ls
+ 1335  cd dlo
+ 1336  python ../fanyi.py dlo.cds dlo.pep.fa
+ 1337  mv dlo.cds dlo.cds.fa
+ 1338  cd ..
+ 1339  jobs
+ 1340  cd ..
+ 1341  ls
+ 1342  cd blast/
+ 1343  bash command.txt 
+ 1344  cd ../dotplot/
+ 1345  ls
+ 1346  cd dlo_acek/
+ 1347  ls
+ 1348  wgdi -d total.conf 
+ 1349  ks
+ 1350  ls
+ 1351  wgdi -icl total.conf >out &
+ 1352  cd ..
+ 1353  cd nla_acek/
+ 1354  ls
+ 1355  wgdi -d total.conf 
+ 1356  wgdi -icl total.conf >out &
+ 1357  cd  ../smu_acek/
+ 1358  ls
+ 1359  wgdi -icl total.conf >out &
+ 1360  jobs
+ 1361  cd ..
+ 1362  jobs
+ 1363  cd lch_acek/
+ 1364  ls
+ 1365  wgdi -d total.conf 
+ 1366  ls
+ 1367  ll
+ 1368  wgdi -icl total.conf >out &
+ 1369  ls
+ 1370  cd ..
+ 1371  ll
+ 1372  cd aya_xso/
+ 1373  ls
+ 1374  wgdi -ks total.conf >out&
+ 1375  j
+ 1376  ls
+ 1377  wgdi -ks total.conf >out&
+ 1378  joibs
+ 1379  jobs
+ 1380  cd ..
+ 1381  ls
+ 1382  ll
+ 1383  cd cha_xso/
+ 1384  ls
+ 1385  wgdi -d total.conf 
+ 1386  wgdi -icl total.conf 
+ 1387  jobs
+ 1388  wgdi -ks total.conf 
+ 1389  cd ..
+ 1390  python dotplot.py cha xso
+ 1391  cd cha_xso/
+ 1392  wgdi -ks total.conf >out &
+ 1393  jobs
+ 1394  cd ..
+ 1395  ks
+ 1396  ls
+ 1397  cd cha_xso/
+ 1398  ls
+ 1399  head cha_xso.collinearity
+ 1400  wgdi -ks total.conf 
+ 1401  cd ..
+ 1402  ls
+ 1403  ll
+ 1404  cat cha.pep.fa xso.pep.fa >cha_xso.pep
+ 1405  cd cha_xso/
+ 1406  wgdi -ks total.conf 
+ 1407  wgdi -ks total.conf >out &
+ 1408  jobs
+ 1409  cd ..
+ 1410  jobs
+ 1411  ls
+ 1412  cd ..
+ 1413  ls
+ 1414  cd dotplot/
+ 1415  ls
+ 1416  pyhon dotplot.py nla xso
+ 1417  python dotplot.py nla xso
+ 1418  python dotplot.py lch xso
+ 1419  python dotplot.py dlo xso
+ 1420  cd nla_xso/
+ 1421  wgdi -d total.conf 
+ 1422  wgdi -icl total.conf >out &
+ 1423  cd ..
+ 1424  cd dlo_xso/
+ 1425  ls
+ 1426  wgdi -icl total.conf >out &
+ 1427  cd ..
+ 1428  cd lch_xso/
+ 1429  ls
+ 1430  wgdi -icl total.conf >out &
+ 1431  ls
+ 1432  wgdi -ks total.conf >out &
+ 1433  ls
+ 1434  jobs
+ 1435  cd ..
+ 1436  jobs
+ 1437  cd dlo_xso/
+ 1438  ls
+ 1439  wgdi -ks total.conf >out &
+ 1440  cd ,,
+ 1441  ll
+ 1442  cd ..
+ 1443  ll
+ 1444  cp ../无患子科已测序基因组/Dlo/dlo.cds.fa .
+ 1445  ll
+ 1446  python dotplot.py dlo xso
+ 1447  cd dlo_xso/
+ 1448  ls
+ 1449  wgdi -ks total.conf >out &
+ 1450  cd ..
+ 1451  jobs
+ 1452  cd nla_xso/
+ 1453  ls
+ 1454  ll
+ 1455  wgdi -ks total.conf >out &
+ 1456  jobs
+ 1457  cd ..
+ 1458  ls
+ 1459  ll
+ 1460  jobs
+ 1461  JOBS
+ 1462  jobs
+ 1463  cd ..
+ 1464  cd dotplot/aya_
+ 1465  cd dotplot/aya_acek/
+ 1466  ls
+ 1467  wgdi -d total.conf 
+ 1468  wgdi -icl total.conf 
+ 1469  cd ..
+ 1470  ls
+ 1471  python dotplot.py xso acek
+ 1472  cd xso_acek/
+ 1473  wgdi -c total.conf 
+ 1474  cd ..
+ 1475  python dotplot.py dlo acek
+ 1476  cd dlo_acek/
+ 1477  ls
+ 1478  wgdi -bi total.conf 
+ 1479  python dotplot.py dlo acek
+ 1480  cd ..
+ 1481  python dotplot.py dlo acek
+ 1482  cd dlo_
+ 1483  cd dlo_acek/
+ 1484  ls
+ 1485  wgdi -bi total.conf 
+ 1486  wgdi -c total.conf 
+ 1487  wgdi -bk total.conf 
+ 1488  cd ..
+ 1489  cd ../ancestor/
+ 1490  cp ../dotplot/dlo_acek/dlo.ancestor.txt .
+ 1491  python ancestor.py dlo.ancestor.txt 
+ 1492  cp ../dotplot/lch_acek/lch.ancestor.txt .
+ 1493  python ancestor.py 
+ 1494  cp ../dotplot/nla_acek/nla.ancestor.txt .
+ 1495  python ancestor.py nla.ancestor.txt 
+ 1496  cp ../dotplot/smu_acek/smu.ancestor.txt..
+ 1497  cp ../dotplot/smu_acek/smu.ancestor.txt .
+ 1498  python ancestor.py smu.ancestor.txt 
+ 1499  cp ../dotplot/cha_acek/cha.ancestor.txt .
+ 1500  python ancestor.py cha.ancestor.txt 
+ 1501  cd ../figure/
+ 1502  cp ../dotplot/*/*.ancesotr.order.png .
+ 1503  cp ../dotplot/*/*.ancestor.order.png .
+ 1504  cd ..
+ 1505  cd dotplot/
+ 1506  python dotplot.py smu xso
+ 1507  cd smu_xso/
+ 1508  ls
+ 1509  wgdi -d total.conf 
+ 1510  cd ..
+ 1511  cd blast/
+ 1512  python rundiamond.py tc180s.pep.fa acek.pep.fa acek tc180s_acek.blast
+ 1513  cd ..
+ 1514  cd dotplot/
+ 1515  python dotplot.py tc180s acek
+ 1516  cd tc180s_acek/
+ 1517  wgdi -d total.conf 
+ 1518  wgdi -icl total.conf 
+ 1519  wgdi -bi total.conf 
+ 1520  wgdi -c total.conf 
+ 1521  wgdi -bk total.conf 
+ 1522  wgdi -km total.conf 
+ 1523  wgdi -a total.conf 
+ 1524  wgdi -pc total.conf 
+ 1525  wgdi -a total.conf 
+ 1526  wgdi -d total.conf 
+ 1527  cd /mnt/d/work/soapberryGenome/dotplot/
+ 1528  python dotplot.py dlo lch
+ 1529  cd dlo_lch/
+ 1530  wgdi -d total.conf 
+ 1531  cd ..
+ 1532  python dotplot.py smu aya
+ 1533  cd smu_
+ 1534  cd smu_a
+ 1535  cd smu_aya/
+ 1536  wgdi -d total.conf 
+ 1537  cp ../../ancestor/smu.ancestor.txt .
+ 1538  cp ../../ancestor/aya.ancestor.txt 
+ 1539  cp ../../ancestor/aya.ancestor.txt .
+ 1540  wgdi -d total.conf 
+ 1541  cd /mnt/d/work/mudan/
+ 1542  ls
+ 1543  cd 牡丹比对/Psu_wgdi/
+ 1544  ls
+ 1545  wgdi -icl to
+ 1546  wgdi -icl 1.conf 
+ 1547  wgdi -ks to
+ 1548  wgdi -ks 1.conf 
+ 1549  wgdi -bi to
+ 1550  wgdi -bi 1.conf 
+ 1551  wgdi -c 1.conf 
+ 1552  wgdi -kp to
+ 1553  wgdi -kp 1.conf 
+ 1554  wgdi -pf 1.conf 
+ 1555  wgdi -akr ?
+ 1556  mamba install -c bioconda liftoff
+ 1557  cd ..
+ 1558  cd qingmu/
+ 1559  cd gen
+ 1560  cd genomes/Ochroma_lagopus/
+ 1561  ls
+ 1562  cd data/
+ 1563  ls
+ 1564  history -h
+ 1565  history 
+ 1566  gffread qingmu.44.out.hic.gff.phase -g qingmu.44.out.hic.fasta -x qingmu.44.out.hic.cds
+ 1567  ls
+ 1568  python 01.getgff.py qingmu.44.out.hic.gff.phase old.gff
+ 1569  python 02.gff_lens.py old.gff opy300s.gff opy300s.lens
+ 1570  python 03.seq_newname.py opy300s.gff qingmu.44.out.hic.cds opy300s.cds.fa
+ 1571  cp ../fanyi.py .
+ 1572  python fanyi.py opy300s.cds.fa opy300s.pep.fa
+ 1573  ls
+ 1574  cd ..
+ 1575  cd blast/
+ 1576  ls
+ 1577  python rundiamond.py opy300s.pep.fa tc180s.pep.fa tc180s opy300s_tc180s.blast
+ 1578  python rundiamond.py opy300s.pep.fa ola300s.pep.fa ola300s opy300s_ola300s.blast
+ 1579  cd ../dotplot/
+ 1580  cd /mnt/d/work/qingmu/dotplot/opy300s_ola300s/
+ 1581  wgdi -icl total.conf 
+ 1582  wgdi -bi total.conf 
+ 1583  cd ..
+ 1584  cd bce302s_ola300s/
+ 1585  wgdi -ks total.conf 
+ 1586  cd /mnt/d/download/Tim\ FIles/
+ 1587  ls
+ 1588  wgdi -icl ceshi.coinf 
+ 1589  cd /mnt/d/work/qingmu/genomes/Ochroma_lagopus/data/
+ 1590  ls
+ 1591  ll
+ 1592  head qingmu.44.out.hic.fasta
+ 1593  ls
+ 1594  python name.py qingmu.44.out.hic.fasta qingmu.44.out.hic.name
+ 1595  cd ..
+ 1596  cd blast/
+ 1597  python rundiamond.py out.pep.fa opy300s.pep.fa opy300s out_oup300s.blast
+ 1598  mamba install -c bioconda crossmap
+ 1599  conda install -c bioconda crossmap
+ 1600  conda config --set report_errors true
+ 1601  conda install -c bioconda crossmap
+ 1602  mamba install -c bioconda crossmap
+ 1603  pip install CrossMap
+ 1604  which CrossMap.py 
+ 1605  CrossMap.py gff qingmu.44.out.hic.agp.chain QM.contig.gff qingmu.44.out.hic.new.gff
+ 1606  cd ..
+ 1607  cd genomes/
+ 1608  cd Ochroma_lagopus/
+ 1609  ls
+ 1610  c dcd data/
+ 1611  cd data/chromosome_by_wzy/
+ 1612  ls
+ 1613  CrossMap.py gff qingmu.44.out.hic.agp.chain QM.contig.gff qingmu.44.out.hic.new.gff
+ 1614  ls
+ 1615  which ragtag
+ 1616  which ragtag.py
+ 1617  ragtag.py -h
+ 1618  ragtag.py ag2fa -h
+ 1619  ragtag.py apg2fa -h
+ 1620  ragtag.py agp2fa -h
+ 1621  cd ..
+ 1622  cd dotplot/opy300s_ola300s/
+ 1623  wgdi -icl total.conf 
+ 1624  cd ../
+ 1625  cls
+ 1626  ls
+ 1627  cd ..
+ 1628  ls
+ 1629  cd gen
+ 1630  cd genomes/
+ 1631  ls
+ 1632  cd Ochroma_lagopus/
+ 1633  ls
+ 1634  cd data/
+ 1635  ls
+ 1636  ragtag.py -h
+ 1637  ragtag.py updategff -h
+ 1638  python
+ 1639  ls
+ 1640  cd /mnt/d/work/
+ 1641  cd ..
+ 1642  cd 会议/
+ 1643  ls
+ 1644  cd Karyotype_Evolution_Example/
+ 1645  ls
+ 1646  cd blast/
+ 1647  ls
+ 1648  ll
+ 1649  python rundiamond.py acek_cja_vvi.pep.fa aek_tsi13s.pep.fa aek_tsi13s acek_aek.blast
+ 1650  wgdi -c ?
+ 1651  cd ..
+ 1652  ls
+ 1653  cd ..
+ 1654  cd work/changpu/analysis/dotplot/atr42s_agr8s/
+ 1655  lw
+ 1656  ls
+ 1657  wgdi -icl total.conf 
+ 1658  wgdi -ks total.conf 
+ 1659  wgdi -bi total.conf 
+ 1660  wgdi -c total.conf 
+ 1661  wgdi -bk total.conf 
+ 1662  wgdi -pc total.conf 
+ 1663  wgdi -a total.conf 
+ 1664  cd ..
+ 1665  cd lc2s_atr42s/
+ 1666  ls
+ 1667  wgdi -icl total.conf 
+ 1668  wgdi -ks total.conf 
+ 1669  wgdi -bi total.conf 
+ 1670  wgdi -c total.conf 
+ 1671  wgdi -pc total.conf 
+ 1672  wgdi -a total.conf 
+ 1673  wgdi -pc total.conf 
+ 1674  wgdi -a total.conf 
+ 1675  cd ..
+ 1676  cd vvi161s_atr42s/
+ 1677  ls
+ 1678  cd ..
+ 1679  cd lc2s_atr42s/
+ 1680  wgdi -c total.conf 
+ 1681  wgdi -pc total.conf 
+ 1682  wgdi -a total.conf 
+ 1683  cd ..
+ 1684  cd vvi161s_atr42s/
+ 1685  ls
+ 1686  wgdi -icl total.conf 
+ 1687  wgdi -ks total.conf 
+ 1688  wgdi -bi total.conf 
+ 1689  wgdi -c total.conf 
+ 1690  wgdi -pc total.conf 
+ 1691  wgdi -a total.conf 
+ 1692  cd ..
+ 1693  cd ac472s_atr42s/
+ 1694  ls
+ 1695  wgdi -icl total.conf 
+ 1696  wgdi -ks total.conf 
+ 1697  wgdi -bi total.conf 
+ 1698  wgdi -c total.conf 
+ 1699  wgdi -pc total.conf 
+ 1700  wgdi -a total.conf 
+ 1701  cd ..
+ 1702  cd cm170s_atr42s/
+ 1703  ls
+ 1704  cd /mnt/d/work/magnoliales/dotplot/cm170s_
+ 1705  cd /mnt/d/work/magnoliales/dotplot/cm170s_atr42s/
+ 1706  ls
+ 1707  wgdi -icl total.conf 
+ 1708  wgdi -ks total.conf 
+ 1709  wgdi -bio total.conf 
+ 1710  wgdi -bi total.conf 
+ 1711  wgdi -c total.conf 
+ 1712  wgdi -pc total.conf 
+ 1713  wgdi -a total.conf 
+ 1714  wgdi -pc total.conf 
+ 1715  wgdi -a total.conf 
+ 1716  wgdi -pc total.conf 
+ 1717  wgdi -a total.conf
+ 1718  ls
+ 1719  ll
+ 1720  ls
+ 1721  cd ..
+ 1722  cd cm170s_
+ 1723  cd cm170s_atr42s/
+ 1724  wgdi -a total.conf 
+ 1725  wgdi -pc total.conf 
+ 1726  wgdi -a total.conf 
+ 1727  cd ..
+ 1728  top
+ 1729  free -m
+ 1730  df -h
+ 1731  top
+ 1732  ps -ef
+ 1733  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/dotplot/bsi11s_aek_tsi13s/
+ 1734  ls
+ 1735  wgdi -icl total.conf 
+ 1736  cd /mnt/d/work/changpu/analysis/dotplot/
+ 1737  cd cse63s_atr42s/
+ 1738  ls
+ 1739  ll
+ 1740  cd ..
+ 1741  cd cs471s_atr42s
+ 1742  ls
+ 1743  wgdi -icl total.conf 
+ 1744  wgdi -ks total.conf 
+ 1745  wgdi -bi total.conf 
+ 1746  wgdi -c total.conf 
+ 1747  wgdi -pc total.conf 
+ 1748  cd ..
+ 1749  cd dotplot/
+ 1750  cd afi49s_atr42s/
+ 1751  wgdi -icl total.conf 
+ 1752  wgdi -ks total.conf 
+ 1753  wgdi -bi total.conf 
+ 1754  wgdi -c total.conf 
+ 1755  cd ..
+ 1756  cd aco40s_atr42s/
+ 1757  wgdi -icl total.conf 
+ 1758  wgdi -ks total.conf 
+ 1759  wgdi -bi total.conf 
+ 1760  wgdi -c total.conf 
+ 1761  cd ..
+ 1762  cd elg3s_atr42s/
+ 1763  wgdi -icl total.conf 
+ 1764  cd ..
+ 1765  cd elg3s_atr42s/
+ 1766  ls
+ 1767  wgdi -ks total.conf 
+ 1768  wgdi -bi total.conf 
+ 1769  wgdi -c total.conf 
+ 1770  wgdi -pc total.conf 
+ 1771  cd ..
+ 1772  cd ase9s_atr42s/
+ 1773  ls
+ 1774  wgdi -icl total.conf 
+ 1775  wgdi -ks total.conf 
+ 1776  wgdi -bi total.conf 
+ 1777  wgdi -c total.conf 
+ 1778  wgdi -pc total.conf 
+ 1779  cd ..
+ 1780  cd abr7s_atr42s/
+ 1781  ls
+ 1782  wgdi -icl total.conf 
+ 1783  wgdi -ks total.conf 
+ 1784  wgdi -bi total.conf 
+ 1785  wgdi -c total.conf 
+ 1786  d ../da480s_atr42s/
+ 1787  cd ../da480s_atr42s/
+ 1788  wgdi -icl total.conf 
+ 1789  wgdi -ks total.conf 
+ 1790  wgdi -bi total.conf 
+ 1791  wgdi -c total.conf 
+ 1792  cd ../nc476s_atr42s
+ 1793  ls
+ 1794  wgdi -icl total.conf 
+ 1795  wgdi -ks total.conf 
+ 1796  ll
+ 1797  cat ../nc476s.cds.fa ../atr42s.cds.fa >nc476s_atr42s.cds
+ 1798  cat ../nc476s.pep.fa ../atr42s.pep.fa >nc476s_atr42s.pep
+ 1799  wgdi -ks total.conf 
+ 1800  wgdi -bi total.conf 
+ 1801  wgdi -c total.conf 
+ 1802  wgdi -pc total.conf 
+ 1803  cd ..
+ 1804  ll
+ 1805  cd atr42s_ive/
+ 1806  wgdi -icl total.conf 
+ 1807  wgdi -ks total.conf 
+ 1808  wgdi -bi total.conf 
+ 1809  wgdi -c total.conf 
+ 1810  wgdi -pc total.conf 
+ 1811  cd ..
+ 1812  cd cde_atr42s/
+ 1813  wgdi -icl total.conf 
+ 1814  wgdi -ks total.conf 
+ 1815  wgdi -bi total.conf 
+ 1816  wgdi -c total.conf 
+ 1817  cd ..
+ 1818  cd cde_atr42s/
+ 1819  ls
+ 1820  wgdi -pc total.conf 
+ 1821  wgdi -a total.conf 
+ 1822  cd ../ef3s_atr42s/
+ 1823  wgdi -icl total.conf 
+ 1824  wgdi -ks total.conf 
+ 1825  wgdi -bi total.conf 
+ 1826  wgdi -c total.conf 
+ 1827  wgdi -pc total.conf 
+ 1828  cd ..
+ 1829  cd analysis/tree/
+ 1830  ls
+ 1831  cd newwgdi/
+ 1832  ls
+ 1833  cd alignment/
+ 1834  dos2unix ./*.csv
+ 1835  cd ..
+ 1836  paste -d, alignment/*.csv >data.csv
+ 1837  ls
+ 1838  cd tree/
+ 1839  ls
+ 1840  python deal_algnment.py data.new.csv data.filter.csv 
+ 1841  python deal_algnment.py data.new.csv data.filter.leat5.csv 
+ 1842  wgdi -at ?
+ 1843  wgdi -at total.conf 
+ 1844  python split.run.py total.conf data.filter.leat5.csv 8
+ 1845  wgdi -at total.conf 
+ 1846  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -in all.nwk -out all.tre -t 8
+ 1847  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1848  run_treeshrink.py -t all.nwk -m all-genes -o treeshink
+ 1849  cd treeshink/
+ 1850  ls
+ 1851  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i output.nwk -o all.tre -t 8
+ 1852  python split.run.py total.conf data.filter.leat5.csv 8
+ 1853  cd ..
+ 1854  python split.run.py total.conf data.filter.leat5.csv 8
+ 1855  wgdi -at total.conf 
+ 1856  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all_fasttree.nwk -o all_fasttree.tre -t 8
+ 1857  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/tree/
+ 1858  ls
+ 1859  cat tsi_bsi/*.treefile >all.nwk
+ 1860  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1861  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 16
+ 1862  cd ..
+ 1863  cd work/changpu/analysis/tree/
+ 1864  ls
+ 1865  cd newwgdi/
+ 1866  ls
+ 1867  cd tree/
+ 1868  ls
+ 1869  cat leat5/*.treefile >new.nwk
+ 1870  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i new.nwk -o new.tre
+ 1871  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1872  cat leat5/*.treefile >new.nwk
+ 1873  wc -l new.nwk 
+ 1874  cat leat5/*.treefile >new.nwk
+ 1875  wc -l new.nwk 
+ 1876  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1877  cat leat5/*.treefile >new.nwk
+ 1878  wc -l new.nwk 
+ 1879  cat leat5/*.treefile >new.nwk
+ 1880  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1881  cat leat5/*.treefile >new.nwk
+ 1882  wc -l new.nwk 
+ 1883  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1884  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 16
+ 1885  cat leat5/*.treefile >new.nwk
+ 1886  wc -l new.nwk 
+ 1887  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 16
+ 1888  cat leat5/*.treefile >new.nwk
+ 1889  wc -l new.nwk 
+ 1890  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 16
+ 1891  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i new.nwk -o new.tre -t 8
+ 1892  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i new.nwk -o new.tre -t 16
+ 1893  cd /mnt/d/work/changpu/analysis/tree/newwgdi/tree/
+ 1894  python split.run.py total.conf data.filter.leat5.csv 8
+ 1895  wgdi -at total.conf 
+ 1896  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all_fasttree.nwk -o all_fasttree.tre -t 8
+ 1897  wgdi -at ?
+ 1898  python split.run.py total.conf data.filter.leat5.csv 8
+ 1899  wgdi -at total.conf 
+ 1900  cd /mnt/d/git/wgdi-example/Karyotype_Evolution_Example/blast/
+ 1901  ls
+ 1902  python rundiamond.py bsi11s.pep.fa aek_tsi13s.pep.fa aek_tsi13s bsi11s_aek_tsi13s.blast
+ 1903  cd ..
+ 1904  cd dotplot/bsi11s_aek_tsi13s/
+ 1905  ls
+ 1906  wgdi -d total.conf 
+ 1907  wgdi -icl total.conf 
+ 1908  cd ..
+ 1909  cd tree/
+ 1910  ls
+ 1911  wgdi -at total.conf 
+ 1912  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1913  wgdi -at total.conf 
+ 1914  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 8
+ 1915  java -jar /mnt/d/software/Astral/astral.5.7.7.jar -i all.nwk -o all.tre -t 16
+ 1916  cd ..
+ 1917  cd blast/
+ 1918  ls
+ 1919  cd ..
+ 1920  cd Karyotype_Evolution_Example/blast/
+ 1921  python rundiamond.py atr42s.pep.fa aek_tsi13s.pep.fa aek_tsi13s atr42s_aek_tsi13s.blast
+ 1922  cd ..
+ 1923  cd dotplot/atr42s_aek_tsi13s/
+ 1924  wgdi -icl total.conf 
+ 1925  wgdi -bi total.conf 
+ 1926  wgdi -c total.conf 
+ 1927  wgdi -pc total.conf 
+ 1928  cd ..
+ 1929  cd tree/
+ 1930  ls
+ 1931  wgdi -at total_atr.conf 
+ 1932  rm -f all.pep 
+ 1933  cat ../blast/atr42s.pep.fa ../blast/bsi11s.pep.fa ../blast/tsi13s.pep.fa >all.pep
+ 1934  wgdi -at total_atr.conf 
+ 1935  cd /mnt/d/git/wgdi-example/
+ 1936  ls
+ 1937  cd dotplot/
+ 1938  ls
+ 1939  cd pn460s_pn460s/
+ 1940  ls
+ 1941  cd jcvi/
+ 1942  ls
+ 1943  cp ../pn460s.cds.fa .
+ 1944  history >out
+ 1945  python -m jcvi.compara.catalog ortholog pn460s pn460s --no_strip_names
+ 1946  cd ..
+ 1947  cd wgdi/
+ 1948  ls
+ 1949  wgdi -d total.conf 
+ 1950  wgdi -icl total.conf 
+ 1951  ls
+ 1952  wgdi -icl total.conf 
+ 1953  wgdi -ks total.conf 
+ 1954  wgdi -bi total.conf 
+ 1955  5~
+ 1956  cd ..
+ 1957  cd mcscanx/
+ 1958  ls
+ 1959  cp ../pn460s.pn460s.last pn460s.blast
+ 1960  ls
+ 1961  cp ../pn460s.gff .
+ 1962  ls
+ 1963  mcscanx -h
+ 1964  MCScanX -h
+ 1965  MCScanX pn460s
+ 1966  wgdi -ks to
+ 1967  wgdi -ks mcscanx.conf 
+ 1968  ls
+ 1969  wgdi -bi mcscanx.conf 
+ 1970  ls
+ 1971  cp ../pn460s.lens .
+ 1972  wgdi -bi mcscanx.conf 
+ 1973  wgdi -c mcscanx.conf 
+ 1974  MCScanX -h
+ 1975  MCScanX -b 2 pn460s
+ 1976  wgdi -bi mcscanx.conf 
+ 1977  wgdu -c mcscanx.conf 
+ 1978  wgdi -c mcscanx.conf 
+ 1979  MCScanX  pn460s
+ 1980  wgdi -bi mcscanx.conf 
+ 1981  wgdi -c mcscanx.conf 
+ 1982  cd ..
+ 1983  cd jcvi/
+ 1984  ls
+ 1985  wgdi -bi jcvi.conf 
+ 1986  cp ../pn460s.lens .
+ 1987  wgdi -bi jcvi.conf 
+ 1988  wgdi -c jcvi.conf 
+ 1989  wgdi -bi jcvi.conf 
+ 1990  wgdi -c jcvi.conf 
+ 1991  wgdi -bi jcvi.conf 
+ 1992  wgdi -c jcvi.conf 
+ 1993  wgdi -ks jcvi.conf 
+ 1994  wgdi -bi jcvi.conf 
+ 1995  wgdi -c jcvi.conf 
+ 1996  cd /mnt/d/git/wgdi-example/dotplot/tsi13s_tsi13s/jcvi/
+ 1997  history >out
