@@ -72,7 +72,7 @@ Most of the genes of *T. sinense* should be derived from AEK, we further mapped 
 
 <img src="./figures/tsi13s_aek_tsi13s.dotplot.order.png" style="zoom: 20%;" />
 
-Then, we used WGDI with the "-icl" parameter to find collinear genes between them. Then, we used WGDI with the "-bi" parameter to find collinear genes between them. Then, we used WGDI with the "-bi" parameter to integrate collinear blocks for easy screening of collinear fragments. Then, we used WGDI with the "-c" parameter to filter out blocks that may be from more ancient events. We also used WGDI with the "-bk" parameter to check the remaining blocks are reasonable.
+Then, we used WGDI with the "-icl" parameter to find collinear genes between them. Then, we used WGDI with the "-bi" parameter to integrate synteny blocks for easy screening of synteny blocks. Then, we used WGDI with the "-c" parameter to filter out blocks that may be from more ancient events. We also used WGDI with the "-bk" parameter to check the remaining blocks are reasonable.
 
 <img src="./figures/tsi13s_aek_tsi13s.blockks.png" style="zoom: 18%;" />
 

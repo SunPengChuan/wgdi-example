@@ -1,0 +1,10 @@
+1	1	3130	white	1
+2	1	2675	white	1
+3	1	2367	#ff9900	1
+4	1	2285	white	1
+5	1	2366	white	1
+6	1	1751	white	1
+7	1	1253	white	1
+8	1	1496	white	1
+9	1	2718	white	1
+10	1	1224	white	1
