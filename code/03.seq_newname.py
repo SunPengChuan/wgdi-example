@@ -9,13 +9,11 @@ print(data.head())
 seqs = []
 n = 0
 for seq_record in SeqIO.parse(sys.argv[2], "fasta"):
-	seq_record.id = seq_record.description.split(' ')[1]
 	if seq_record.id in id_dict:
 		seq_record.id = id_dict[seq_record.id]
 		n += 1
 	else:
 		continue
-	exit(0)
 	seqs.append(seq_record)
 SeqIO.write(seqs, sys.argv[3], "fasta")
 print(n)
