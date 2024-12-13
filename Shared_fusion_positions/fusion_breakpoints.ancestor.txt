@@ -1,0 +1,8 @@
+AK1_1	1	100	red	1
+AK1_1	101	200	blue	1
+AK1_2	1	100	red	1
+AK1_2	101	200	blue	1
+AK17	1	100	red	1
+AK17	101	200	blue	1
+AK18	1	100	red	1
+AK18	101	200	blue	1

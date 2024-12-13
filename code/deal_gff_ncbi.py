@@ -70,6 +70,7 @@ for seq_record in SeqIO.parse(sys.argv[2], "fasta"):
     seq_record.id =  re.search(r'XP_\d+\.\d+', seq_record.id).group()  
     if seq_record.id in id_dict:
         seq_record.id = id_dict[seq_record.id]
+        seq_record.seq = seq_record.id.seq.replace('.', '*')
         n += 1
     else:
         continue
@@ -83,6 +84,7 @@ n = 0
 for seq_record in SeqIO.parse(sys.argv[3], "fasta"):
     if seq_record.id in id_dict:
         seq_record.id = id_dict[seq_record.id]
+        seq_record.seq = seq_record.id.seq.replace('.', '*')
         n += 1
     else:
         continue

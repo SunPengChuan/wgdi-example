@@ -1,6 +1,6 @@
 ### Subgenome-aware analyses
 
-Let’s delve into a detailed explanation of how we can phase subgenomes corresponding to the balsa tree, cotton, heritiera littoralis, and durian using the Chr3 of cacao as an example.
+Let's delve into a detailed explanation of how we can phase subgenomes corresponding to the balsa tree, cotton, heritiera littoralis, and durian using the Chr3 of cacao as an example.
 
 ###### Phased subgenomes for the balsa tree. 
 
