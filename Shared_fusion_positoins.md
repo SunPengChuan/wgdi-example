@@ -41,4 +41,4 @@ This output indicates that *Capsella rubella* possesses these two shared fusion 
 The following are the shared fusion breakpoints:
 AK17
 
-This output indicates that *Thlaspi arvense* possesses these two shared fusion breakpoints: AK1_1 and AK1_2.
+This output indicates that *Thlaspi arvense* possesses these two shared fusion breakpoints: AK17.
