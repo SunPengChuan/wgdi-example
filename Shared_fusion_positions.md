@@ -5,12 +5,11 @@ Let's take an ancestral karyotype as an example to explain in detail how to cons
 ---
 
 #### Identifying Fusion breakpositions and Generating the Database
-
-By employing the WGDI parameter `-km`, we mapped the protochromosomes of the ancestral karyotype onto the query genome based on collinearity, resulting in the ancestor file, [Chi2.ancestor.txt](./Shared_fusion_positions/Chi2.ancestor.txt).
+We begin by using the WGDI toolkit (Sun et al., 2022) with the parameter `-d` to generate a homologous gene dotplot between *Cardamine hirsuta* and the ancestral karyotype (ACBK). By employing the WGDI parameter `-km`, we mapped the protochromosomes of the ancestral karyotype onto the query genome based on collinearity, resulting in the ancestor file, [Chi2.ancestor.txt](./Shared_fusion_positions/Chi2.ancestor.txt).
 
 <img src="./Shared_fusion_positions/Chi2_ACBK.dotplot.order.png" style="zoom: 20%;" />
 
-From the dotplot, we observe a reciprocal translocation involving chromosomes ACBK7 and ACBK8 (denoted ACBK/7_8/RCT). Reading the file [Chi2.ancestor.txt](./Shared_fusion_positions/Chi2.ancestor.txt) reveals the fusion breakpoints at Chr3:1948 and Chr8:653.
+From the dotplot, we observe a reciprocal chromosome translocation involving chromosomes ACBK7 and ACBK8 (denoted ACBK/7_8/RCT). Reading the file [Chi2.ancestor.txt](./Shared_fusion_positions/Chi2.ancestor.txt) reveals the fusion breakpoints at Chr3:1948 and Chr8:653.
 
 This information is then recorded in a document, as detailed in the **Fusion Positions File** section of the [WGDI documentation](https://wgdi.readthedocs.io/en/master/usage.html). An example of such a file is [Chi2.txt](./Shared_fusion_positions/Chi2.txt). By executing the WGDI command with the parameter `-fpd` (e.g., `wgdi -fpd Chi2.conf`), the corresponding fusion positions database is generated. This process generates the outputs, including the essential files `.gff`, `.lens`, `.pep`, and the ancestor file (e.g., [fusion_breakpoints.ancestor.txt](./Shared_fusion_positions/fusion_breakpoints.ancestor.txt)). For more details and additional files,such as [Chi2.conf](./Shared_fusion_positions/Chi2.conf), please refer to the [Shared_fusion_positions/](./Shared_fusion_positions/) directory.
 
