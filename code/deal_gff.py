@@ -38,7 +38,7 @@ for name, group in gff.groupby(0):
 
 gff['order'] = ''
 gff['newname'] = ''
-for name, group in gff.groupby([0]):
+for name, group in gff.groupby(0):
     number = len(group)
     group = group.sort_values(by=[2])
     gff.loc[group.index, 'order'] = list(range(1, len(group)+1))
